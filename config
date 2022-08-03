@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "urls": {
+    "small_https_download_url": "https://mensura.cdn-apple.com/api/v1/gm/small
+  },
+  "test_endpoint": "usscz2-edge-bx-006.aaplimg.com"
+}
