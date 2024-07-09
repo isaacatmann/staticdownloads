@@ -1,1 +1,1 @@
-https://download-preservation.code42.com/installs/agent/cloud/12.0.1/6/install/Code42_12.0.1_15252000061201_6_Mac-arm64.dmg
+https://download-preservation.code42.com/installs/agent/cloud/12.4.0/42/install/Code42_12.4.0_15252000061240_42_Mac-arm64.dmg
